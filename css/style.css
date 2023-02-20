@@ -1,0 +1,23 @@
+
+*{
+    font-family: 'Outfit', sans-serif;
+}
+.container{
+    width: 15%;
+    height: auto;
+    border: solid 2px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+}
+.container img{
+    width: 100%;
+    
+    border-radius: 7px;
+}
+.container p{
+    font-weight: 700;
+}
+.container span{
+    font-weight: 400;
+}
